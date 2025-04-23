@@ -107,5 +107,3 @@ window:AddToggle("Auto Farm [Truck]", function(state)
         end
     end)
 end)
-
--- Optional: You can add a reset/health check loop if needed
